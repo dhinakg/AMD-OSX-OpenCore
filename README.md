@@ -1,0 +1,2 @@
+# AMD-OSX-OpenCore
+ 
