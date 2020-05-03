@@ -31,7 +31,7 @@ Kernel binary patches to enable almost native AMD CPU support on macOS.
 
 ### Special Notes
 - These patches require OpenCore 0.5.7 and above. 
-- For support creating OpenCore config read the docs[this](https://desktop.dortania.ml/).
+- For support creating OpenCore config read the docs[this](https://dortania.github.io/OpenCore-Desktop-Guide/).
 
 ### Credits
 - [AlGrey](https://github.com/AlGreyy) for the idea and creating the patches.
